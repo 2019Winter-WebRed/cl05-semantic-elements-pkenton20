@@ -1,0 +1,25 @@
+/*
+* Paige Kenton
+* 4/15/19
+* Semantic Elements
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+header {
+    background-color: palegreen;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: deepskyblue;
+}
